@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:UcihaOfficial/libsignal-node",
+        "libsignal": "github:Badzz88/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -62,7 +62,7 @@
         "ws": "^8.13.0"
     },
     "devDependencies": {
-        "@adiwajshing/eslint-config": "github:UcihaOfficial/eslint-config",
+        "@adiwajshing/eslint-config": "github:Badzz88/eslint-config",
         "@types/got": "^9.6.11",
         "@types/jest": "^27.5.1",
         "@types/node": "^16.0.0",
