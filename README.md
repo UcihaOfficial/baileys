@@ -1,7 +1,7 @@
 # WhatsApp Baileys Badzz
 
 <p align="center">
-  <img src="https://d.top4top.io/p_3749w5rv01.jpg" alt="Thumbnail" />
+  <img src="https://files.catbox.moe/6w6hqy.jpg" alt="Thumbnail" />
 </p>
 
 WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
@@ -125,7 +125,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2 ",
+        footer: "telegram: @UcihaV2 ",
         buttons: [
             {
                 name: "cta_copy",
@@ -148,13 +148,13 @@ await sock.sendMessage(target, {
     interactiveMessage: {      
         header: "Hello World",
         title: "Hello World",      
-        footer: "telegram: @badzzne2",      
+        footer: "telegram: @UcihaV2",      
         image: { url: "https://example.com/image.jpg" },      
         nativeFlowMessage: {        
             messageParamsJson: JSON.stringify({          
                 limited_time_offer: {            
                     text: "idk hummmm?",            
-                    url: "https://t.me/badzzne2",            
+                    url: "Https://t.me/UcihaV2",            
                     copy_code: "yume",            
                     expiration_time: Date.now() * 999          
                 },          
@@ -227,7 +227,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @UcihaV2",
         image: { url: "https://example.com/image.jpg" },
         buttons: [
             {
@@ -280,10 +280,10 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @UcihaV2",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
-        fileName: "badzzne2.pdf",
+        fileName: "UcihaV2.pdf",
         jpegThumbnail: fs.readFileSync("./document.jpeg"),
         contextInfo: {
             mentionedJid: [target],
@@ -305,8 +305,8 @@ await sock.sendMessage(target, {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/badzzne2",
-                    merchant_url: "https://t.me/badzzne2"
+                    url: "https://t.me/UcihaV2",
+                    merchant_url: "https://t.me/UcihaV2"
                 })
             }
         ]
@@ -322,7 +322,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @UcuhaV2",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
         fileName: "badzzne2.pdf",
@@ -332,8 +332,8 @@ await sock.sendMessage(target, {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/badzzne2",
-                    merchant_url: "https://t.me/badzzne2"
+                    url: "https://t.me/UcihaV2",
+                    merchant_url: "https://t.me/UcihaV2"
                 })
             }
         ]
